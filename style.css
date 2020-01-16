@@ -1,0 +1,26 @@
+.nav.link {
+    color: crimson;
+    text-decoration: none;
+}
+#about > blockquote {
+    background-color: #eaeaea;
+}
+
+#creators a {
+ font-family: 'Lato', sans-serif;
+}
+#users > span {
+    font-weight: bold;
+
+}
+#creators a[class="link font"] {
+    font-family: 'PT Serif', serif;
+    font-weight: bold;
+}
+#cta h2 {
+    font-family: 'Lato', sans-serif;
+    color: crimson;
+}
+li:nth-child(odd) {
+    text-decoration: underline;
+}
